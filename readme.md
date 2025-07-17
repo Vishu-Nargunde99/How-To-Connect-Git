@@ -51,6 +51,7 @@ example:-
 ssh -i pem-server-key.pem ec2-user@10.10.10.122
 ```
 ## Summary
+Added new line 
 In this guid we learned about how to access our virtual machine through local machine. Because we have to work on our virtual machine so GitBash is the platform for work on virtual machine 
 - First download the application 
 - second install the application 
