@@ -5,7 +5,7 @@ In this section, we’ll learn how to connect an EC2 instance — our virtual se
 
 Git Bash is an application for Windows operating systems that provides a Unix-based shell experience. It allows you to run Git command-line commands and other common Unix utilities on your Windows machine.
 
-![alt text](GitBashLogo.jpg)
+![project Screenshot](/Images/GitBashLogo.jpg)
 
 ## Step 1 :
 Here is the link to download Git Bash on your system:
@@ -14,14 +14,14 @@ Here is the link to download Git Bash on your system:
 
 First, click on this link — it will take you to the official Git Bash website.
 
-![alt text](download.png)
+![project screenshot](/Images/download.png)
 
 On the right side of the screen, click Download for Windows. This will open a new page where the download will begin automatically.
 
 ### Step 2: 
 You’ll see a list of Git Bash versions — just pick the one that fits your system (like 64-bit or 32-bit). It’s best to go with the latest version to make sure you get all the latest features and updates.
 
-![alt text](extantion.png)
+![project screenshot](/Images/extantion.png)
 
 ### Step 3 :
 Now in your local machine in download section you can check your gitbash application is downloaded now you can install the application on your machine 
@@ -30,12 +30,12 @@ Now in your local machine in download section you can check your gitbash applica
 Ok, Let's start the connection our virtual machine on our local machine 
 Now you can go to that folder where you key-pair is saved. There click on right curser then open git bash there. 
 
-![alt text](gitbashpath.png)
+![project screenshot](/Images/gitbashpath.png)
 
 You can click on **"Open Git Bash Here"**
 now Open the gitbash terminal. 
 
-![alt text](bashterminal.png)
+![project screenshot](/Images/bashterminal.png)
 
 ### Step 5 :
 Now you can access the your virtual machine through git bash here 
